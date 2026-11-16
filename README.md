@@ -25,5 +25,5 @@ An interactive sales analysis dashboard developed using Microsoft Power BI to ex
 ![Swiggy Sales Dashboard](Swiggy%20dashboard.png)
 
 ## Project Files
-- `Swiggy_Sales_Analysis.pbix` – Power BI project file
+- - [View Power BI Dashboard](Swiggy_Sales_Analysis.pbix)
 - `Swiggy dashboard.png` – Dashboard screenshot
