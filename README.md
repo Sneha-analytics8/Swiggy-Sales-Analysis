@@ -5,8 +5,7 @@ An interactive sales analysis dashboard developed using Microsoft Power BI to ex
 
 ## Tools Used
 - Microsoft Power BI
-- Data Visualization
-- Data Analysis
+- Microsoft Excel
 
 ## Key Performance Indicators
 - Total Orders: 500
